@@ -100,7 +100,7 @@ header .navegacao-primaria li a:hover::after {
 }
 
 .section-div img {
-  max-width: 120%;
+  max-width: 130%;
 }
 
 /* Define a animação "digitando" */
@@ -689,7 +689,7 @@ footer .footer_comercial {
   }
 
   .section-div {
-    background-image: url(hello\ world.gif);
+    background-image: url(hello\ world\ fp.gif);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: end;
