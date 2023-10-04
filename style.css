@@ -553,7 +553,7 @@ main .sobre {
 }
 
 .projects_armazenamento ul li img {
-  max-width: 100%;
+  max-width: 150%;
   height: 100%;
   border: 4px;
   cursor: pointer;
