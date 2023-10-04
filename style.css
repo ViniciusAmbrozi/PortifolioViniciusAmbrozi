@@ -87,7 +87,7 @@ header .navegacao-primaria li a:hover::after {
   padding-top: 30px;
   font-family: "Poppins", sans-serif;
   font-weight: 200;
-  color: #c8c7c7;
+  color: #ffffff;
 }
 
 .section-div div a {
@@ -100,7 +100,7 @@ header .navegacao-primaria li a:hover::after {
 }
 
 .section-div img {
-  max-width: 80%;
+  max-width: 120%;
 }
 
 /* Define a animação "digitando" */
@@ -689,11 +689,20 @@ footer .footer_comercial {
   }
 
   .section-div {
-    background-image: url(foto2.0.jpg);
+    background-image: url(hello\ world.gif);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: right;
+    background-position: end;
     margin: auto 0;
+  }
+
+  h2 {
+    white-space: nowrap;
+    text-align: start;
+  }
+
+  .section-div p {
+    margin-top: 25px;
   }
 
   header {
@@ -729,7 +738,7 @@ footer .footer_comercial {
   }
 
   .sobre img {
-    max-width: 50%;
+    max-width: 70%;
     grid-column: 1/-1;
     justify-self: center;
   }
